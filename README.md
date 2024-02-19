@@ -26,3 +26,10 @@ wget  https://github.com/iPmartNetwork/zeus.py/releases/download/python-tunnel/z
 python3  zeus.py
 ```
 
+## 4.User & Pass
+
+```bash
+User : admin
+
+Pass : zeus
+```
