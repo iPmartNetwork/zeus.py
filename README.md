@@ -1,5 +1,5 @@
 # Install-Zeus Tunnel
-Easy way for install Mikrotik’s Cloud Hosted Router on any Cloud VM
+Easy way for install iPtable Tunnel whit Python
 
 ## 1. Update server
 
@@ -26,7 +26,7 @@ wget  https://github.com/iPmartNetwork/zeus.py/releases/download/python-tunnel/z
 python3  zeus.py
 ```
 
-## 4.User & Pass
+## 5.User & Pass
 
 ```bash
 User : admin
